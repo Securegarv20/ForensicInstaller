@@ -64,7 +64,7 @@ All installation steps are logged to a file named `install_tools.log`. You can c
 ## Author
 
 - **Author**: SecureGarv
-- **GitHub**: [https://github.com/yourusername](https://github.com/Securegarv20)
+- **GitHub**: [SecureGarv20](https://github.com/Securegarv20)
 
 ## License
 
